@@ -55,8 +55,8 @@ Bu çalışmanın amacı, Python dilinde sağlam bir temel oluşturarak ileri se
 
 ## 📎 Kaynak
 - [BTK Akademi – Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)  
-- Eğitmen: **:contentReference[oaicite:0]{index=0}**  
-- Kurum: **:contentReference[oaicite:1]{index=1}**
+- Eğitmen: https://www.btkakademi.gov.tr/portal/trainer/2556
+- Kurum:  https://www.btkakademi.gov.tr/portal
 
 ---
 

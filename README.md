@@ -62,7 +62,7 @@ Bu çalışmanın amacı, Python dilinde sağlam bir temel oluşturarak ileri se
 
 ## ✨ Geliştirici
 **Mustafa Çetinkaya**  
-📍 GitHub: [github.com/mustafa1076](https://github.com/cetinkayamustafa)  
+📍 GitHub: [github.com/cetinkayamustafa](https://github.com/cetinkayamustafa)  
 💼 LinkedIn: [linkedin.com/in/mustafacetinkayaa](https://www.linkedin.com/in/mustafacetinkayaa)
 
 

@@ -1,0 +1,5 @@
+mustafa cetinkaya:100,50,60
+musa  cetinkaya:40,95,85
+mustaa cett:10,20,30
+deneme deneme:50,50,65
+fevzi cakmak:70,90,80
